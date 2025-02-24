@@ -34,7 +34,12 @@
             <version>5.11.4</version>
         </dependency>
 
-       
+        <dependency>
+            <groupId>org.junit.vintage</groupId>
+            <artifactId>junit-vintage-engine</artifactId>
+            <version>5.11.1</version>
+        </dependency>
+
     </dependencies>
 
 </project>
