@@ -45,7 +45,7 @@ public class TestSteps {
         System.out.println(expectedSortString);
 
         Assert.assertEquals(
-                "ahhaaha",
+                expectedSortString,
                 sortedRandomString
         );
     }
